@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="locator.fcsit.com.fcsitofiicelocator">
+
+    <uses-sdk android:targetSdkVersion="11" />
+
+    <!--
+         The ACCESS_COARSE/FINE_LOCATION permissions are not required to use
+         Google Maps Android API v2, but you must specify either coarse or fine
+         location permissions for the 'MyLocation' functionality. 
+    -->
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <!--
+    <supports-screens
+        android:anyDensity="true"
+        android:compatibleWidthLimitDp="320"
+        android:largestWidthLimitDp="320"
+        android:resizeable="true" />
+    -->
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <application
+        android:name="android.support.multidex.MultiDexApplication"
+        android:allowBackup="true"
+        android:icon="@drawable/umaricon"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".Splash_Screen"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".MainActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Search_Lecuturers.Search_Lecturer"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Faculty_Facilities.Faculty_facilities"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".FCSIT_staffs"
+            android:screenOrientation="portrait"
+            android:theme="@style/MyMaterialTheme" />
+        <!--
+             The API key for Google Maps-based APIs is defined as a string resource.
+             (See the file "res/values/google_maps_api.xml").
+             Note that the API key is linked to the encryption key used to sign the APK.
+             You need a different API key for each encryption key, including the release key that is used to
+             sign the APK for publishing.
+             You can define the keys for the debug and release targets in src/debug/ and src/release/. 
+        -->
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="@string/google_maps_key" />
+
+        <activity
+            android:name=".FcsitMap.Locate_Office"
+            android:label="@string/title_activity_locate__office"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Search_Lecuturers.SingleItemView"
+            android:screenOrientation="portrait"
+            android:theme="@style/MyMaterialTheme" />
+        <activity
+            android:name=".Faculty_Facilities.FSingleItemView"
+            android:screenOrientation="portrait"
+            android:theme="@style/MyMaterialTheme" />
+        <activity android:name=".OfficeHolder" />
+        <activity android:name=".Deanary.Deanary"/>
+        <activity android:name=".Deanary.DSingleItemView"
+            android:theme="@style/MyMaterialTheme" />
+
+        <activity android:name=".HOD.HOD"/>
+        <activity android:name=".HOD.HSingleItemView"
+            android:theme="@style/MyMaterialTheme" />
+
+        <activity android:name=".Level_Coord.Level_Coord"/>
+        <activity android:name=".Level_Coord.LSingleItemView"
+            android:theme="@style/MyMaterialTheme" />
+
+        <activity android:name=".Exam_Officer.Exam_Officer"/>
+        <activity android:name=".Exam_Officer.ESingleItemView"
+            android:theme="@style/MyMaterialTheme" />
+
+
+
+    </application>
+
+</manifest>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_search__lecturer"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="10dp"
+    android:paddingLeft="10dp"
+    android:paddingRight="10dp"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="locator.fcsit.com.fcsitofiicelocator.Search_Lecuturers.Search_Lecturer">
+    <android.support.design.widget.TextInputLayout
+        android:id="@+id/layout1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <EditText
+            android:id="@+id/search"
+            android:layout_width="match_parent"
+            android:hint="Search using Lecturers Name or Phone No. or Office No."
+            android:layout_height="wrap_content" >
+        </EditText>
+    </android.support.design.widget.TextInputLayout>
+    <ListView
+        android:id="@+id/listview"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_below="@+id/layout1" >
+        <requestFocus />
+    </ListView>
+
+</RelativeLayout>

@@ -1,0 +1,722 @@
+{
+"map":
+[
+ {
+"title": "Shamsuddeen Hassan Muhammad",
+"subtitle": "R1-01",
+"floor": "Ground",
+"type": "",
+"latitude": "11.974661",
+"longitude": "8.425187"
+},
+
+{
+"title": "Misbahu Shariffudeen",
+"subtitle": "R1-02",
+"floor": "Ground",
+"type": "",
+"latitude": "11.974677",
+"longitude": "8.425216"
+},
+
+{
+"title": "Kabir Umar",
+"subtitle": "R1-03",
+"floor": "Ground",
+"type": "",
+"latitude": "11.974709",
+"longitude": "8.425241"
+},
+
+{
+"title": "Muhammad Hassan",
+"subtitle": "R1-04",
+"floor": "Ground",
+"type": "",
+"latitude": "11.974726",
+"longitude": "8.425257"
+},
+
+{
+"title": "Rasheed Abubakar Rasheed",
+"subtitle": "R1-05",
+"floor": "Ground",
+"type": "",
+"latitude": "11.974748",
+"longitude": "8.425289"
+},
+
+{
+"title": "Maryam Ibrahim Mukhtar",
+"subtitle": "R1-06",
+"floor": "Ground",
+"type": "",
+"latitude": "11.974827",
+"longitude": "8.425335"
+},
+
+{
+"title": "Saratu Yusuf Ilu",
+"subtitle": "R1-08",
+"floor": "Ground",
+"type": "",
+"latitude": "11.974999",
+"longitude": "8.425296"
+},
+
+{
+"title": "Secretary Software Engineering",
+"subtitle": "R1-09",
+"floor": "Ground",
+"type": "",
+"latitude": "11.975034",
+"longitude": "8.425310"
+},
+
+
+{
+"title": "Bashir Shehu Galadanci",
+"subtitle": "R1-10",
+"floor": "Ground",
+"type": "",
+"latitude": "11.975072",
+"longitude": "8.425313"
+},
+
+{
+"title": "Abdulrazaq Hassan Abba",
+"subtitle": "R1-11",
+"floor": "Ground",
+"type": "",
+"latitude": "11.975095",
+"longitude": "8.425284"
+},
+
+{
+"title": "Abdullahi Baffa ",
+"subtitle": "R1-14",
+"floor": "Ground",
+"type": "",
+"latitude": "11.975177",
+"longitude": "8.425096"
+},
+
+{
+"title": "Hafsat Kabir Ahmad",
+"subtitle": "R1-16",
+"floor": "Ground",
+"type": "",
+"latitude": "11.975175",
+"longitude": "8.42506"
+},
+
+{
+"title": "Auwal Shehu Ali",
+"subtitle": "R1-17",
+"floor": "Ground",
+"type": "",
+"latitude": "11.975145",
+"longitude": "8.424944"
+},
+
+{
+"title": "Murja Sani Gadanya",
+"subtitle": "R1-18",
+"floor": "Ground",
+"type": "",
+"latitude": "11.975146",
+"longitude": "8.424922"
+},
+
+{
+"title": "Mubarak Umar",
+"subtitle": "R1-19",
+"floor": "Ground",
+"type": "",
+"latitude": "11.975103",
+"longitude": "8.424858"
+},
+
+{
+"title": "Khalid Haruna",
+"subtitle": "R1-20",
+"floor": "Ground",
+"type": "",
+"latitude": "11.975075",
+"longitude": "8.424836"
+},
+
+
+{
+"title": "Mahmoud Yusuf",
+"subtitle": "R1-21",
+"floor": "Ground",
+"type": "",
+"latitude": "11.975051",
+"longitude": "8.424818"
+},
+
+{
+"title": "Bello Shehu Bello",
+"subtitle": "R1-22",
+"floor": "Ground",
+"type": "",
+"latitude": "11.975026",
+"longitude": "8.424793"
+},
+
+{
+"title": "Sagir Tanimu Musa",
+"subtitle": "R1-23",
+"floor": "Ground",
+"type": "",
+"latitude": "11.975001",
+"longitude": "8.424775"
+},
+
+{
+"title": "Jamil Aliyu Galadanci",
+"subtitle": "R1-24",
+"floor": "First",
+"type": "",
+"latitude": "11.975001",
+"longitude": "8.424750"
+},
+
+
+{
+"title": "Salisu Barodo",
+"subtitle": "R1-26",
+"floor": "First",
+"type": "",
+"latitude": "11.975108",
+"longitude": "8.424861"
+},
+
+{
+"title": "Hadiza Kabir Umar",
+"subtitle": "R1-27",
+"floor": "First",
+"type": "",
+"latitude": "11.975139",
+"longitude": "8.424911"
+},
+
+{
+"title": "Aminu Bello Usman",
+"subtitle": "R1-28",
+"floor": "First",
+"type": "",
+"latitude": "11.975154",
+"longitude": "8.424945"
+},
+
+{
+"title": "Naima Hafiz Abubakar",
+"subtitle": "R1-29",
+"floor": "First",
+"type": "",
+"latitude": "11.975168",
+"longitude": "8.425048"
+},
+
+{
+"title": "Muhammad Yahuza Bello",
+"subtitle": "R1-30 to R1-31",
+"floor": "First",
+"type": "",
+"latitude": "11.975169",
+"longitude": "8.425078"
+},
+
+{
+"title": "HOD, Information Technology",
+"subtitle": "R1-35",
+"floor": "First",
+"type": "",
+"latitude": "11.975050",
+"longitude": "8.425282"
+},
+
+{
+"title": "Secretary, Information Technology",
+"subtitle": "R1-36",
+"floor": "First",
+"type": "",
+"latitude": "11.975037",
+"longitude": "8.425279"
+},
+
+{
+"title": "Associate Professor Abdulwahab Lawan",
+"subtitle": "R1-37",
+"floor": "First",
+"type": "",
+"latitude": "11.975003",
+"longitude": "8.425279"
+},
+
+{
+"title": "Mustapha Abubakar Ahmed",
+"subtitle": "R1-38",
+"floor": "First",
+"type": "",
+"latitude": "11.974899",
+"longitude": "8.425284"
+},
+
+{
+"title": "Jafar Zubairu Maitama",
+"subtitle": "R1-39",
+"floor": "First",
+"type": "",
+"latitude": "11.974865",
+"longitude": "8.425280"
+},
+
+{
+"title": "Ibrahim Sadiq Ahmad",
+"subtitle": "R1-40",
+"floor": "First",
+"type": "",
+"latitude": "11.974783",
+"longitude": "8.425233"
+},
+
+{
+"title": "Sadiq Muhammad",
+"subtitle": "R1-42",
+"floor": "First",
+"type": "",
+"latitude": "11.974695",
+"longitude": "8.425171"
+},
+
+{
+"title": "Deputy Dean",
+"subtitle": "R1-46",
+"floor": "Second",
+"type": "",
+"latitude": "11.974853",
+"longitude": "8.425285"
+},
+
+{
+"title": "Examination Office",
+"subtitle": "R1-47",
+"floor": "Second",
+"type": "",
+"latitude": "11.974893",
+"longitude": "8.425291"
+},
+
+
+
+{
+"title": "Faculty Officer",
+"subtitle": "R1-48",
+"floor": "Second",
+"type": "",
+"latitude": "11.974977",
+"longitude": "8.425289"
+},
+
+{
+"title": "Dean FCSIT",
+"subtitle": "R1-49",
+"floor": "Second",
+"type": "",
+"latitude": "11.974998",
+"longitude": "8.425287"
+},
+
+{
+"title": "Secretary FCSIT",
+"subtitle": "R1-50",
+"floor": "Second",
+"type": "",
+"latitude": "11.975032",
+"longitude": "8.425288"
+},
+
+
+{
+"title": "Sub-Dean Academic",
+"subtitle": "R1-51",
+"floor": "Second",
+"type": "",
+"latitude": "11.975082",
+"longitude": "8.425269"
+},
+
+{
+"title": "Sub-Dean Facilities",
+"subtitle": "R1-52",
+"floor": "Second",
+"type": "",
+"latitude": "11.975095",
+"longitude": "8.425256"
+},
+
+{
+"title": "HOD Computer Science",
+"subtitle": "R1-54",
+"floor": "Second",
+"type": "",
+"latitude": "11.975181",
+"longitude": "8.425121"
+},
+
+{
+"title": "Secretary, Computer Science",
+"subtitle": "R1-55",
+"floor": "Second",
+"type": "",
+"latitude": "11.975176",
+"longitude": "8.425075"
+},
+
+{
+"title": "Habiba Kakudi",
+"subtitle": "R1-56",
+"floor": "Second",
+"type": "",
+"latitude": "11.975172",
+"longitude": "8.425044"
+},
+
+{
+"title": "Baffa Sani",
+"subtitle": "R1-57",
+"floor": "Second",
+"type": "",
+"latitude": "11.975165",
+"longitude": "8.42493"
+},
+
+{
+"title": "Sani Abbullahi Mu'az",
+"subtitle": "R1-58",
+"floor": "Second",
+"type": "",
+"latitude": "11.975151",
+"longitude": "8.424906"
+},
+
+{
+"title": "Mansur Babagana",
+"subtitle": "R1-59",
+"floor": "Second",
+"type": "",
+"latitude": "11.975107",
+"longitude": "8.424844"
+},
+
+{
+"title": "David Airehrour",
+"subtitle": "R1-61",
+"floor": "Second",
+"type": "",
+"latitude": "11.975006",
+"longitude": "8.424770"
+},
+
+{
+"title": "Staff Rest Room",
+"subtitle": "GF-1",
+"floor": "Ground",
+"type": "",
+"latitude": "11.975139",
+"longitude": "8.424898"
+},
+
+{
+"title": "PG Female Rest Room",
+"subtitle": "GF-2",
+"floor": "Ground",
+"type": "",
+"latitude": "11.975146",
+"longitude": "8.424906"
+},
+
+{
+"title": "Sofware Engineering Research Lab",
+"subtitle": "R1-12/13",
+"floor": "Ground",
+"type": "",
+"latitude": "11.975094",
+"longitude": "8.425267"
+},
+
+{
+"title": "Staff Rest Room",
+"subtitle": "R1-0",
+"floor": "Ground Floor",
+"type": "",
+"latitude": "11.974796",
+"longitude": "8.425323"
+},
+
+{
+"title": "UG Female Rest Room",
+"subtitle": "R1-0",
+"floor": "Ground",
+"type": "",
+"latitude": "11.974766",
+"longitude": "8.425302"
+},
+
+{
+"title": "Faculty Store",
+"subtitle": "GF-3",
+"floor": "Ground",
+"type": "",
+"latitude": "11.974845",
+"longitude": "8.425331"
+},
+
+{
+"title": "CIT Theatre",
+"subtitle": "GF-4",
+"floor": "FCSIT",
+"type": "",
+"latitude": "11.974810",
+"longitude": "8.424953"
+},
+
+{
+"title": "Mobile Technology & Postgraduate Research Lab",
+"subtitle": "R1-25",
+"floor": "First",
+"type": "",
+"latitude": "11.975021",
+"longitude": "8.424795"
+},
+
+{
+"title": "Staff Rest Room",
+"subtitle": "FF-1",
+"floor": "First",
+"type": "",
+"latitude": "11.975119",
+"longitude": "8.424871"
+},
+
+{
+"title": "UG Female Rest Room",
+"subtitle": "FF-2",
+"floor": "First",
+"type": "",
+"latitude": "11.975135",
+"longitude": "8.424886"
+},
+
+{
+"title": "Networking Lab II",
+"subtitle": "R1-32",
+"floor": "First",
+"type": "",
+"latitude": "11.975103",
+"longitude": "8.425241"
+},
+
+{
+"title": "Staff Rest Room",
+"subtitle": "FF-3",
+"floor": "First",
+"type": "",
+"latitude": "11.974836",
+"longitude": "8.425281"
+},
+
+{
+"title": "UG Male Rest Room",
+"subtitle": "FF-4",
+"floor": "First",
+"type": "",
+"latitude": "11.974805",
+"longitude": "8.425260"
+},
+
+{
+"title": "Networking Lab I",
+"subtitle": "R1-41",
+"floor": "First",
+"type": "",
+"latitude": "11.974758",
+"longitude": "8.425215"
+},
+
+{
+"title": "Postgraduate Class A",
+"subtitle": "R1-50",
+"floor": "Second",
+"type": "",
+"latitude": "11.975037",
+"longitude": "8.424797"
+},
+
+{
+"title": "Staff Rest Room",
+"subtitle": "SF-1",
+"floor": "Second",
+"type": "",
+"latitude": "11.975123",
+"longitude": "8.424875"
+},
+
+{
+"title": "PG Male Rest Room",
+"subtitle": "SF-2",
+"floor": "Second",
+"type": "",
+"latitude": "11.975136",
+"longitude": "8.424886"
+},
+
+{
+"title": "Conference Room",
+"subtitle": "R1-53",
+"floor": "Second",
+"type": "",
+"latitude": "11.975105",
+"longitude": "8.425249"
+},
+
+{
+"title": "Staff Rest Room",
+"subtitle": "SF-3",
+"floor": "Second",
+"type": "",
+"latitude": "11.974839",
+"longitude": "8.425283"
+},
+
+{
+"title": "UG Male Rest Room",
+"subtitle": "SF-4",
+"floor": "Second",
+"type": "",
+"latitude": "11.974801",
+"longitude": "8.425275"
+},
+
+{
+"title": "Post Graduate Class B",
+"subtitle": "R1-44",
+"floor": "Second",
+"type": "",
+"latitude": "11.974708",
+"longitude": "8.425192"
+},
+
+{
+"title": "Simulation Lab",
+"subtitle": "R2-06",
+"floor": "Ground",
+"type": "",
+"latitude": "11.975251",
+"longitude": "8.425398"
+},
+
+{
+"title": "Ahmad Abbah Datti",
+"subtitle": "R2-05",
+"floor": "Ground",
+"type": "",
+"latitude": "11.975236",
+"longitude": "8.425386"
+},
+
+{
+"title": "MSSN-FCSIT Office",
+"subtitle": "R2-18",
+"floor": "Ground",
+"type": "",
+"latitude": "11.975443",
+"longitude": "8.425425"
+},
+
+{
+"title": "NACOSS Secretariat",
+"subtitle": "R2-20",
+"floor": "Ground",
+"type": "",
+"latitude": "11.975479",
+"longitude": "8.425473"
+},
+
+{
+"title": "Theatre A",
+"subtitle": "R2-15",
+"floor": "Ground",
+"type": "",
+"latitude": "11.975368",
+"longitude": "8.425488"
+},
+
+{
+"title": "Saminu Aliyu",
+"subtitle": "R2-32",
+"floor": "First",
+"type": "",
+"latitude": "11.975457",
+"longitude": "8.425687"
+},
+
+{
+"title": "L3 Laborattory",
+"subtitle": "R3-01",
+"floor": "Ground",
+"type": "Washroom",
+"latitude": "11.975449",
+"longitude": "8.426052"
+},
+
+
+{
+"title": "L4 Laboratory",
+"subtitle": "R3-02",
+"floor": "Ground",
+"type": "",
+"latitude": "11.975527",
+"longitude": "8.426130"
+},
+
+{
+"title": "Lecture Room 1",
+"subtitle": "R4-01",
+"floor": "Ground",
+"type": "",
+"latitude": "11.974141",
+"longitude": "8.425449"
+},
+
+{
+"title": "Lecture Room 2",
+"subtitle": "R4-02",
+"floor": "Ground",
+"type": "",
+"latitude": "11.974116",
+"longitude": "8.425404"
+},
+
+{
+"title": "Lecture Room 3",
+"subtitle": "R4-03",
+"floor": "Ground",
+"type": "",
+"latitude": "11.974055",
+"longitude": "8.425341"
+},
+
+{
+"title": "Lecture Room 4",
+"subtitle": "R4-04",
+"floor": "Ground",
+"type": "",
+"latitude": "11.974005",
+"longitude": "8.425304"
+  }
+ ]
+}
